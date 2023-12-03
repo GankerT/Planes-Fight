@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(项目最终最终整合.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  zhuti.cpp
+C:\Users\涛帅\Desktop\飞机大战整合V2.5最终版\项目最终最终整合\zhuti.cpp(1184,16): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\涛帅\Desktop\飞机大战整合V2.5最终版\项目最终最终整合\zhuti.cpp(1353,11): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\涛帅\Desktop\飞机大战整合V2.5最终版\项目最终最终整合\zhuti.cpp(1407,15): warning C4018: “>”: 有符号/无符号不匹配
+  项目最终最终整合.vcxproj -> C:\Users\涛帅\Desktop\飞机大战整合V2.5最终版\x64\Debug\飞坤大战.exe
